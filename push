@@ -1,0 +1,10 @@
+#!/bin/bash
+# This script help you to push your work on github
+# you can improve it if you want
+# Just make sure to make it executable by chmod u+x primepush
+echo Your comment please
+
+read varname
+
+git add . && git commit -m "$varname" && git push
+
