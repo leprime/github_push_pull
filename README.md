@@ -1,4 +1,4 @@
-This program in bash help a user of github to automate his work.
+This program in bash help user of github to automate his work.
 
 Just clone by git clone https://github.com/leprime/github_push_pull.git
 
